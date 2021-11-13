@@ -1,0 +1,5 @@
+## compiled code
+useDynLib(TDspatstat)
+
+## export
+export("plotmap", "scores.listw", "plotsmooth", "test.scores", "forward.sel")
