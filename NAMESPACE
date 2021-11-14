@@ -2,4 +2,4 @@
 useDynLib(TDspatstat)
 
 ## export
-export("plotmap", "scores.listw", "plotsmooth", "test.scores", "forward.sel")
+export("plotmap", "scores.listw", "plotsmooth", "orthosmooth.randtest", "test.scores", "forward.sel")
