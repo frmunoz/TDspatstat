@@ -21,6 +21,12 @@ orthosmooth.randtest(x, MEM, nrepet = 999)
   \item{nrepet}{
 %%     ~~Describe \code{nrepet} here~~
 }
+    \item{by}{
+%%     ~~Describe \code{by} here~~
+}
+    \item{length}{
+%%     ~~Describe \code{length} here~~
+}
 }
 \details{
 %%  ~~ If necessary, more details than the description above ~~
